@@ -1,0 +1,53 @@
+
+
+body {
+    background-image: url(./image/laylahandme.jpg);
+    background-size: 37%;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    align-items: center;
+}
+
+.countdown-container {
+    display: flex;
+   
+}
+
+h1 {
+    margin-top: 40px;
+    color: rgb(192, 73, 192);
+    font-size: 160px;
+    text-shadow: 3px 3px 3px black;
+}
+
+.big-text {
+    font-size: 10rem;
+    color: rgb(192, 73, 192);
+    margin: 150px;
+    margin-top: auto;
+    text-shadow: 3px 3px 3px black;
+}
+
+span {
+    font-size: 6rem;
+    margin-left: 60px;
+    color: rgb(192, 73, 192);
+    text-shadow: 3px 3px 3px black;
+}
+
+.balloon {
+    max-width: 400px;
+    float: inherit;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+.balloon2 {
+    max-width: 400px;
+    float: inherit;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
